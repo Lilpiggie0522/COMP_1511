@@ -1,7 +1,9 @@
 # C programming explianed
 
-`int main (void) {
+`
+int main (void) {
     printf('helloWorld');
 
     return 0;
-}`
+}
+`
